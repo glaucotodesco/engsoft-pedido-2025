@@ -3,6 +3,7 @@ left to right direction
 actor "Cliente" as C
 actor "Vendedor" as V
 actor "Gerente do Departamento" as G
+actor "Fornecedor" as F
 
 rectangle Sistema {
   
@@ -33,5 +34,6 @@ G --> UC9
 
 ' Interação Cliente <-> Vendedor
 C --> V
+F --> G
 
 @enduml
