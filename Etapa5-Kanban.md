@@ -25,7 +25,7 @@ No seu Kanban, o backlog será dividido em três colunas principais:
    - Sprint 1: Cadastro de clientes e pedidos  
    - Sprint 2: Gestão de produtos e fornecedores  
    - Sprint 3: Relatórios e consultas  
-3. Atribua os Draft Issues aos milestones correspondentes.
+
 
 ---
 
@@ -35,16 +35,19 @@ No seu Kanban, o backlog será dividido em três colunas principais:
 3. Atribua **labels** (atores, prioridade, tamanho), **milestone** e, se desejar, **assignees**.  
 4. Mova a issue para **Backlog In Progress** quando estiver aprovada para desenvolvimento.
 
+
 ---
 
 ## 5. Planejamento da Sprint
 1. Defina o **período da sprint** (ex.: 2 semanas).  
-2. Selecione as issues do backlog que serão trabalhadas na sprint.  
+2. Selecione as issues do backlog "In Progress" que serão trabalhadas na sprint.  
 3. Verifique prioridades, dependências e estimativas de tamanho (`P`, `M`, `G`).  
 4. Atualize as issues com **labels de prioridade e tamanho**, e mova para **Backlog In Progress**.
-5. Crie novos issues baseado em User Stories na coluna **To Do**
+5. Crie novos issues baseado em User Stories na coluna **To Do** do item do Backlog
 6. Rotule todas as novas issues
 7. Associe os Issue do Backlog com os Issues do Todo (sub-issue do backlog)
+8. Rotule com a Sprint: S1, S2, S3
+9. Associe as Issues aos Milestones
 ---
 
 ## 6. Criação do Sprint Backlog
