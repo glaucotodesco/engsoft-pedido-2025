@@ -21,6 +21,9 @@
 
 ## Casos de Uso
 
+![Caso de Uso](/)
+
+
 ### Ator: Vendedor
 1. **Cadastrar Cliente**  
    - Informar dados do cliente.  
