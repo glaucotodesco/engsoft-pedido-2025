@@ -13,9 +13,9 @@
 
 # Etapas de Desenvolvimento
 
-[Etapa 01 - Use Case](Etapa1-Personas.md)
+[Etapa 01 - Personas](Etapa1-Personas.md)
 
-[Etapa 02 - Use Case](Etapa2-Business-Model-Canvas.md)
+[Etapa 02 - Business Canvas Model](Etapa2-Business-Model-Canvas.md)
 
 [Etapa 03 - Use Case](Etapa3-UseCase.md)
 
