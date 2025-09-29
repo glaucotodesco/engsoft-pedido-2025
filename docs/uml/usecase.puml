@@ -1,7 +1,6 @@
-"plantuml.exportOutDir": "docs/diagrams/out"
-
 @startuml
 left to right direction
+actor "Cliente" as C
 actor "Vendedor" as V
 actor "Gerente do Departamento" as G
 
@@ -19,14 +18,20 @@ rectangle Sistema {
   (Cadastrar Fornecedor) as UC9
 }
 
+' Casos de uso do Vendedor
 V --> UC1
 V --> UC2
 V --> UC3
 V --> UC4
 V --> UC5
 
+' Casos de uso do Gerente
 G --> UC6
 G --> UC7
 G --> UC8
 G --> UC9
+
+' Interação Cliente <-> Vendedor
+C --> V
+
 @enduml
