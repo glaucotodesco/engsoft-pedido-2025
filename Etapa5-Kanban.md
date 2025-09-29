@@ -11,7 +11,8 @@ No seu Kanban, o backlog será dividido em três colunas principais:
 
 ## 2. Criação das Labels
 1. Vá para **Issues → Labels**.  
-2. Crie labels para organizar as tarefas, por exemplo:  
+2. Crie labels para organizar as tarefas, por exemplo:
+   - **Backlog**: Criar o label Backlog
    - **Por ator/tipo de tarefa**: `Vendedor`, `Gerente`, `Pedido`, `Produto`, `Fornecedor`  
    - **Por prioridade**: `Alta`, `Média`, `Baixa`  
    - **Por tamanho/complexidade**: `P` (Pequeno), `M` (Médio), `G` (Grande)  
