@@ -1,5 +1,7 @@
 # 📌 Business Model Canvas – Sistema de Gestão de Pedidos e Vendas
 
+![Template](/docs/canvas-template.jpg)
+
 ## 🏷 Proposta de Valor
 - Simplificação do processo de pedidos entre cliente e vendedor.  
 - Transparência no acompanhamento de entregas e status.  
