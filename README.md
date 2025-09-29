@@ -16,5 +16,5 @@
 
 [Etapa 02 - Use BackLog com User Stories](Etapa2-Backlog.md)
 
-[Etapa 03 - Kanban](Etapa3-Kanban)
+[Etapa 03 - Kanban](Etapa3-Kanban.md)
 
