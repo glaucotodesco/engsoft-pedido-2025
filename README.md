@@ -21,7 +21,7 @@
 
 ## Casos de Uso
 
-![Caso de Uso](/)
+![Caso de Uso](/docs/out/docs/uml/usecase/usecase.png)
 
 
 ### Ator: Vendedor
